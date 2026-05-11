@@ -17,9 +17,10 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/> </p>
 💠 Profile Card Style
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NimeshMaduranga-hub&theme=tokyonight"/> </p>
-🚀 Motto
 
-“Code. Build. Improve. Repeat.”
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A00F4,100:00D4FF&height=80&section=header&text=Code.%20Build.%20Improve.%20Repeat.&fontSize=28&fontColor=ffffff" />
+</p>
 
 ⚡ Footer
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:6A00F4&height=120&section=footer"/> </p>
