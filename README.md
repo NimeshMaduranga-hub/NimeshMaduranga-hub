@@ -3,7 +3,7 @@
 
 <!-- BLACK & WHITE HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=160&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:000000&height=120&section=header&text=>%20ABOUT%20ME%20/&fontSize=30&fontColor=00ffcc&animation=fadeIn" />
 </p>
 
 <!-- MONOCHROME TYPING ANIMATION -->
