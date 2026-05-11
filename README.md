@@ -2,9 +2,7 @@
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,100:00D4FF&height=180&section=header&text=Full%20Stack%20Developer&fontSize=35&fontColor=ffffff" /> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00D4FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Full+Stack+Developer;Java+%7C+JavaScript+Enthusiast;UI+%2F+UX+Lover;Always+Learning+New+Tech" /> </p>
 
 <!-- BLACK & WHITE HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=160&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&animation=fadeIn" />
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=160&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&animation=fadeIn" /> </p>
 
 <!-- MONOCHROME TYPING ANIMATION -->
 <p align="center">
