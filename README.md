@@ -1,11 +1,23 @@
 🟣 Hi there, I'm Nimesh Maduranga 👋
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,100:00D4FF&height=180&section=header&text=Full%20Stack%20Developer&fontSize=35&fontColor=ffffff" /> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00D4FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Full+Stack+Developer;Java+%7C+JavaScript+Enthusiast;UI+%2F+UX+Lover;Always+Learning+New+Tech" /> </p>
-👨‍💻 About Me
+## 👨‍💻 About Me
 
-✨ Passionate Full Stack Developer from Sri Lanka
-🌍 Based in Negombo, Sri Lanka
-🖥️ Building modern web applications & UI experiences
-🚀 Always exploring new technologies & improving skills
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:6A00F4,100:00D4FF&height=100&section=header&text=About%20Me&fontSize=28&fontColor=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/✨%20Passionate%20Developer-000000?style=for-the-badge"/>
+</p>
+
+<p align="center">
+
+🌍 Based in Negombo, Sri Lanka  
+🖥️ Full Stack Web Developer  
+🚀 Love building modern UI/UX systems  
+⚡ Always learning new technologies  
+
+</p>
 
 🌐 Connect With Me
 <p align="center"> <a href="https://nimeshmaduranga-hub.github.io/MyWebsite/"> <img src="https://img.shields.io/badge/Portfolio-6A00F4?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a> <a href="https://twitter.com/@NimeshMadu97252"> <img src="https://img.shields.io/badge/Twitter-00D4FF?style=for-the-badge&logo=twitter&logoColor=white"/> </a> <a href="https://linkedin.com/in/www.linkedin.com/in/nimesh-maduranga-97130831a"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://youtube.com/channel/Quickcuttube"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> </a> </p>
