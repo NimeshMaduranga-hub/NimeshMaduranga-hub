@@ -1,22 +1,22 @@
 🟣 Hi there, I'm Nimesh Maduranga 👋
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,100:00D4FF&height=180&section=header&text=Full%20Stack%20Developer&fontSize=35&fontColor=ffffff" /> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00D4FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Full+Stack+Developer;Java+%7C+JavaScript+Enthusiast;UI+%2F+UX+Lover;Always+Learning+New+Tech" /> </p>
 
-<!-- ANIMATED HEADER -->
+<!-- BLACK & WHITE HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,100:00D4FF&height=160&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:000000,100:ffffff&height=160&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- ANIMATED TYPING BADGE -->
+<!-- MONOCHROME TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=00D4FF&center=true&vCenter=true&width=500&lines=Passionate+Full+Stack+Developer;UI%2FUX+Lover;Always+Learning+New+Tech;Clean+Code+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;UI%2FUX+Designer;Clean+Code+Lover;Always+Learning" />
 </p>
 
-<!-- GLASS STYLE BADGE -->
+<!-- BLACK BADGE -->
 <p align="center">
-  <img src="https://img.shields.io/badge/✨%20Passionate%20Developer-6A00F4?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Developer-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<!-- INFO CARD -->
+<!-- INFO CARD (WHITE TEXT STYLE) -->
 <p align="center">
 
 🌍 Based in Negombo, Sri Lanka  
@@ -25,7 +25,6 @@
 ⚡ Always learning new technologies  
 
 </p>
-
 
 🌐 Connect With Me
 <p align="center"> <a href="https://nimeshmaduranga-hub.github.io/MyWebsite/"> <img src="https://img.shields.io/badge/Portfolio-6A00F4?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a> <a href="https://twitter.com/@NimeshMadu97252"> <img src="https://img.shields.io/badge/Twitter-00D4FF?style=for-the-badge&logo=twitter&logoColor=white"/> </a> <a href="https://linkedin.com/in/www.linkedin.com/in/nimesh-maduranga-97130831a"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://youtube.com/channel/Quickcuttube"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> </a> </p>
