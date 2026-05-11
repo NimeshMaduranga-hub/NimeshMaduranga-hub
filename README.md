@@ -3,7 +3,7 @@
 
 <!-- BLACK & WHITE HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:000000&height=120&section=header&text=>%20ABOUT%20ME%20/&fontSize=30&fontColor=00ffcc&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=160&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- MONOCHROME TYPING ANIMATION -->
@@ -38,7 +38,7 @@
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NimeshMaduranga-hub&theme=tokyonight"/> </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A00F4,100:00D4FF&height=80&section=header&text=Code.%20Build.%20Improve.%20Repeat.&fontSize=28&fontColor=ffffff" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Code.;Build.;Improve.;Repeat." />
 </p>
 
 ⚡ Footer
