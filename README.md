@@ -11,28 +11,8 @@
 <p align="center"> <a href="https://nimeshmaduranga-hub.github.io/MyWebsite/"> <img src="https://img.shields.io/badge/Portfolio-6A00F4?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a> <a href="https://twitter.com/@NimeshMadu97252"> <img src="https://img.shields.io/badge/Twitter-00D4FF?style=for-the-badge&logo=twitter&logoColor=white"/> </a> <a href="https://linkedin.com/in/www.linkedin.com/in/nimesh-maduranga-97130831a"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://youtube.com/channel/Quickcuttube"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> </a> </p>
 ⚡ Tech Stack
 <p align="center"> <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5"/> <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3"/> <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java"/> <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript"/> </p>
-## 📊 GitHub Analytics
-
-<p align="center">
-  
-  <!-- GitHub Stats Card -->
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=NimeshMaduranga-hub&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-
-  <!-- Top Languages Card -->
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshMaduranga-hub&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
-<br/>
-
-<p align="center">
-
-  <!-- Streak Stats Card -->
-  <img src="https://streak-stats.demolab.com?user=NimeshMaduranga-hub&theme=tokyonight&hide_border=true" />
-
-</p>
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NimeshMaduranga-hub&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshMaduranga-hub&layout=compact&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=NimeshMaduranga-hub&theme=tokyonight&hide_border=true"/> </p>
 🐍 Contribution Snake (Optional Cool Effect)
 <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/> </p>
 💠 Profile Card Style
