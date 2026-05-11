@@ -1,11 +1,11 @@
-<!-- HERO HEADER -->
+<!-- MAIN WAVE HERO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:6A00F4&height=200&section=header&text=Hi%20there,%20I'm%20Nimesh%20Maduranga%20👋&fontSize=30&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:6A00F4&height=220&section=header&text=&fontSize=0" />
 </p>
 
-<!-- MAIN TITLE BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A00F4,100:00D4FF&height=120&section=header&text=Full%20Stack%20Developer&fontSize=34&fontColor=ffffff&animation=fadeIn" />
+<!-- TITLE OVERLAY -->
+<p align="center" style="margin-top:-120px;">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Nimesh+Maduranga+👋;Full+Stack+Developer" />
 </p>
 
 <!-- TYPING ANIMATION -->
